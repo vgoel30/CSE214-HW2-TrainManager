@@ -120,7 +120,7 @@ public class TrainLinkedList {
 			Size++;
 			nodePtr = nodePtr.getNext();
 		}
-		return this.size;
+		return Size;
 	}
 
 	/**
